@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Authors:
+* Fitoschido
+* Gomoko
+* Happy13241
+* Jean-Frédéric
+* KATRINE1992
+* Metroitendo
+* Nicolas Raoul
+* Orikrin1998
+* Patrick Star
+* Sherbrooke
+* Thibaut120094
+* Tpt
+* Urhixidur
+* VIGNERON
+* Wladek92
+* Y-M D
+-->
 <resources>
   <string name="preference_category_appearance">Apparence</string>
   <string name="preference_category_general">Général</string>
@@ -152,8 +170,8 @@
   <string name="detail_description_empty">Aucune description</string>
   <string name="detail_license_empty">Licence inconnue</string>
   <string name="menu_refresh">Rafraîchir</string>
-  <string name="read_storage_permission_rationale">Autorisation nécessaire : Lire un stockage externe. L’application ne peut pas fonctionner sans cela.</string>
-  <string name="write_storage_permission_rationale">Permission obligatoire : Écriture sur stockage externe. L’application ne peut pas fonctionner sans cela.</string>
+  <string name="read_storage_permission_rationale">Autorisation nécessaire : Lire un stockage externe. L’application ne peut pas accéder à votre galerie sans cela.</string>
+  <string name="write_storage_permission_rationale">Permission obligatoire : Écriture sur stockage externe. L’application ne peut pas accéder à votre appareil photo sans cela.</string>
   <string name="location_permission_rationale">Autorisation facultative : Obtenir l’emplacement actuel pour des suggestions de catégorie</string>
   <string name="ok">OK</string>
   <string name="title_activity_nearby">Endroits à proximité</string>
@@ -228,6 +246,7 @@
   <string name="null_url">Erreur! URL non trouvée</string>
   <string name="nominate_deletion">Proposer pour suppression</string>
   <string name="nominated_for_deletion">Cette image a été citée pour suppression.</string>
+  <string name="nominated_see_more" fuzzy="true"/>
   <string name="view_browser">Afficher dans le navigateur</string>
   <string name="nearby_location_has_not_changed">L\'emplacement n\'a pas changé.</string>
   <string name="nearby_location_not_available">Emplacement non disponible.</string>
@@ -243,15 +262,17 @@
   <string name="nearby_wikidata">WIKIDATA</string>
   <string name="nearby_wikipedia">WIKIPÉDIA</string>
   <string name="nearby_commons">COMMUNS</string>
-  <string name="about_rate_us"/>
-  <string name="about_faq" fuzzy="true">FAQ</string>
+  <string name="about_rate_us">&lt;u&gt;Votre appréciation&lt;/u&gt;</string>
+  <string name="about_faq">&lt;u&gt;FAQ&lt;/u&gt;</string>
   <string name="welcome_skip_button">Sauter le tutoriel</string>
   <string name="no_internet">Internet indisponible</string>
   <string name="internet_established">Internet disponible</string>
   <string name="error_notifications">Erreur sur recherche des notifications</string>
   <string name="no_notifications">Pas de notification trouvée</string>
+  <string name="about_translate">&lt;u&gt;Traduire&lt;/u&gt;</string>
   <string name="about_translate_title">Langues</string>
   <string name="about_translate_message">Sélectionner la langue pour laquelle vous voulez soumettre des traductions</string>
   <string name="about_translate_proceed">Continuer</string>
   <string name="about_translate_cancel">Annuler</string>
+  <string name="retry">Réessayer</string>
 </resources>

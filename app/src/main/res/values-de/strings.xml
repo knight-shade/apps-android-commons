@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Authors:
+* Envlh
+* Inkowik
+* Kghbln
+* Metalhead64
+* Sujan
+-->
 <resources>
   <string name="preference_category_appearance">Erscheinung</string>
   <string name="preference_category_general">Allgemein</string>
@@ -152,8 +159,8 @@
   <string name="detail_description_empty">Keine Beschreibung</string>
   <string name="detail_license_empty">Unbekannte Lizenz</string>
   <string name="menu_refresh">Aktualisieren</string>
-  <string name="read_storage_permission_rationale">Erforderliche Berechtigung: Externen Speicher lesen. Die App funktioniert ohne diese Berechtigung nicht.</string>
-  <string name="write_storage_permission_rationale">Erforderliche Berechtigung: Externen Speicher beschreiben. Die App kann ohne dies nicht funktionieren.</string>
+  <string name="read_storage_permission_rationale">Erforderliche Berechtigung: Externen Speicher lesen. Die App kann ohne diese Berechtigung nicht auf deine Galerie zugreifen.</string>
+  <string name="write_storage_permission_rationale">Erforderliche Berechtigung: Externen Speicher beschreiben. Die App kann ohne diese Berechtigung nicht auf deine Kamera zugreifen.</string>
   <string name="location_permission_rationale">Optionale Berechtigung: Ruft den aktuellen Standort für Kategorievorschläge ab</string>
   <string name="ok">Okay</string>
   <string name="title_activity_nearby">Orte in der Nähe</string>
@@ -256,4 +263,5 @@
   <string name="about_translate_message">Wähle die Sprache aus, für die du Übersetzungen durchführen möchtest.</string>
   <string name="about_translate_proceed">Fortfahren</string>
   <string name="about_translate_cancel">Abbrechen</string>
+  <string name="retry">Erneut versuchen</string>
 </resources>
